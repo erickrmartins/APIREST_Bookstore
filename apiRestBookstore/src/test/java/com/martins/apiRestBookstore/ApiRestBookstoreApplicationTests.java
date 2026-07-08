@@ -1,10 +1,10 @@
-package com.martins.apiRestLivraria;
+package com.martins.apiRestBookstore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiRestLivrariaApplicationTests {
+class ApiRestBookstoreApplicationTests {
 
 	@Test
 	void contextLoads() {
